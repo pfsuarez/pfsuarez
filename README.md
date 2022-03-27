@@ -16,13 +16,22 @@
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-----
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
 
-#### View my stats on Github 
-[![Pedro's Github Stats](https://github-readme-stats.vercel.app/api?username=pfsuarez&show_icons=true)](https://github.com/pfsuarez/)
+<br />
 
-#### See my top languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pfsuarez&layout=compact&langs_count=12)](https://github.com/pfsuarez/github-readme-stats)
+<details>
+  <summary> :desktop_computer: More about my coding life</summary>
+  <p>
+    
+  [![Github Stats](https://github-readme-stats.vercel.app/api?username=pfsuarez&show_icons=true)](https://github.com/pfsuarez/)
+    
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pfsuarez&layout=compact&langs_count=12)](https://github.com/pfsuarez/)
+  
+  </p>
+</details>
 
 
 <!--
