@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+### Howdy earthlings :vulcan_salute: :alien:
 
-You can use the [editor on GitHub](https://github.com/pfsuarez/pfsuarez/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<a target="_blank" href="https://www.linkedin.com/in/pfsuarez">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://img.icons8.com/color/344/linkedin.png" />
+</a>
+<br />
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+----
 
-### Markdown
+**Skills:**  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-```markdown
-Syntax highlighted code block
+----
 
-# Header 1
-## Header 2
-### Header 3
+#### View my stats on Github 
+[![Pedro's Github Stats](https://github-readme-stats.vercel.app/api?username=pfsuarez&show_icons=true)](https://github.com/pfsuarez/)
 
-- Bulleted
-- List
+#### See my top languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pfsuarez&layout=compact&langs_count=12)](https://github.com/pfsuarez/github-readme-stats)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pfsuarez/pfsuarez/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<!--
+**pfsuarez/pfsuarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
