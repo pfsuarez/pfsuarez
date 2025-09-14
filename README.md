@@ -46,7 +46,7 @@
 <br />
 
 
-:dependabot: More stats:  
+:dependabot: Github stats:  
 
 <p>
 
