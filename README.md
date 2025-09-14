@@ -7,7 +7,7 @@
 
 ----
 
-**Skills:**  
+:electron: **Skills:**  
 
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
@@ -45,18 +45,16 @@
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg"></code>
 <br />
 
-<details>
-  <summary> :desktop_computer: More about my coding life</summary>
-  <p>
-    
-  [![Github Stats](https://github-readme-stats.vercel.app/api?username=pfsuarez&show_icons=true)](https://github.com/pfsuarez/)
-    
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pfsuarez&layout=compact&langs_count=12)](https://github.com/pfsuarez/)
-  
-  </p>
-</details>
 
+:dependabot: More stats:  
 
+<p>
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=pfsuarez&show_icons=true)](https://github.com/pfsuarez/)
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pfsuarez&layout=compact&langs_count=12)](https://github.com/pfsuarez/)
+
+</p>
 <!--
 **pfsuarez/pfsuarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -69,3 +67,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
